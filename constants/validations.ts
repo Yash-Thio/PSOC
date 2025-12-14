@@ -1,0 +1,1 @@
+export const EMAIL_REGEX = /^btech\d{5}\.\d{2}@bitmesra\.ac\.in$/;;
